@@ -24,6 +24,6 @@ Para desenvolver o projeto, utilizei do MVC, utilizando ainda mais duas camadas 
 Após estes processos o ambiente está preparado para teste
 
 ## Informações relevantes
-Para não criar usuário basta usar :
-Usuário: teste@gmail.com
-Senha: teste123
+Para logar no sistema:
+- Usuário: teste@gmail.com
+- Senha: teste123
