@@ -12,7 +12,7 @@ Para desenvolver o projeto, utilizei do MVC, utilizando ainda mais duas camadas 
 - Request: uso esta camada para validação de campos
 
 ## Procedimentos para Execução
-- git clone : https://github.com/pedrocampos10/desafio_lpj.git
+- git clone https://github.com/pedrocampos10/desafio_lpj.git
 - Composer install 
 - Importar o banco de dados localizado em bd
 - duplicar .env.example para .env, configurando as devidas configurações
